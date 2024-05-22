@@ -131,6 +131,6 @@ DeployMate is licensed under the MIT License. See the [LICENSE](LICENSE) file fo
 If you have any questions or need further assistance, feel free to contact us at:
 
 - **Email**: sugam.arora23@gmail.com
-- **GitHub Issues**: [https://github.com/SUGAM-ARORA/deploymate/issues](https://github.com/SUGAM-ARORA/deploymate/issues)
+- **GitHub Issues**: [https://github.com/SUGAM-ARORA/deploymate/issues](https://github.com/SUGAM-ARORA/Deploy-Mate/issues)
 
 Thank you for using DeployMate! We hope it helps streamline your CI/CD processes and boosts your productivity.
